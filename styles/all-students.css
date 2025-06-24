@@ -1,0 +1,30 @@
+
+.demTable {
+	width:100%;
+	border:1px solid #ffffff;
+	border-collapse:collapse;
+	padding:5px;
+}
+
+.demTable th {
+	border:1px solid #ffffff;
+	padding:5px;
+	background: #ffffff;
+	color: #000000;
+}
+
+.demTable td {
+	border:1px solid #ffffff;
+	text-align:center;
+	padding:5px;
+	background: #06a6f2;
+	color: #ffffff;
+}
+
+.demTable .td-active{
+    background-color: green;
+}
+
+.demTable .td-inActive{
+    background-color: red;
+}
